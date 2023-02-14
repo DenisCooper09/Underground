@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c7f5935df4b5642b5bfc9c00163a93, type: 3}
+  m_Name: GunData_BananaGun
+  m_EditorClassIdentifier: 
+  m_Damage: {x: 10, y: 20}
+  <FireRate>k__BackingField: 0.5
+  <Sprite>k__BackingField: {fileID: 2031836474, guid: 66fbb95c83a0a994f99a6b92845c6e9a, type: 3}
+  m_HaveModule: 1
+  <ModulePrefab>k__BackingField: {fileID: 2602377908853766070, guid: 94185de4936d19247be3dfc841120989, type: 3}
+  <BulletForce>k__BackingField: 7
+  <BulletLifetime>k__BackingField: 5
+  <BulletPrefab>k__BackingField: {fileID: 1732225615485169190, guid: 84d788faa91b284439470e8063f7330f, type: 3}

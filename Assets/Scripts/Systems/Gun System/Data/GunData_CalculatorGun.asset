@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c7f5935df4b5642b5bfc9c00163a93, type: 3}
+  m_Name: GunData_CalculatorGun
+  m_EditorClassIdentifier: 
+  m_Damage: {x: 1, y: 9}
+  <FireRate>k__BackingField: 0.25
+  <Sprite>k__BackingField: {fileID: 1211332387, guid: 66fbb95c83a0a994f99a6b92845c6e9a, type: 3}
+  m_HaveModule: 1
+  <ModulePrefab>k__BackingField: {fileID: 3766977541533710350, guid: a53c40dad62a8ba489fd0fb92576c1e8, type: 3}
+  <BulletForce>k__BackingField: 5
+  <BulletLifetime>k__BackingField: 5
+  <BulletPrefab>k__BackingField: {fileID: 1182268376773304503, guid: 4dae642398d53ee48a474e53aeecc311, type: 3}
